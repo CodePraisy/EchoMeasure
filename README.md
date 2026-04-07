@@ -1,6 +1,7 @@
 # EchoMeasure
 
 ESP32-based distance measurement system with real-time OLED display and proximity alert.
+![Main Setup](media/main.png)  
 
 ---
 
@@ -27,20 +28,7 @@ It also includes a buzzer alert when objects are closer than the configured thre
 
 ---
 
-## Demo
-
-Click the videos below to watch the behavior:
-
-[![Baud Output](media/baud_output.mp4)](media/baud_output.mp4)  
-[![Buzzer Video](media/buzzer_video.mp4)](media/buzzer_video.mp4)  
-[![Rate Video](media/rate_video.mp4)](media/rate_video.mp4)  
-[![Trig Video](media/trig_video.mp4)](media/trig_video.mp4)  
-
----
-
 ## Hardware Setup
-
-![Main Setup](media/main.png)  
 ![Buzzer](media/buzzer.png)  
 ![Trigger Sensor](media/trigger.png)  
 ![Rate Measurement](media/rate.png)  
